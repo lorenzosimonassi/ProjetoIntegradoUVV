@@ -27,22 +27,19 @@ nav {
 nav h1 {
     font-size: 40px;
     color: #262559;
-    margin-left: 20%;
+    margin-left: 31%;
     cursor: default;
 
 }
 
 nav i {
     font-size: 40px;
-    margin-left: 35%;
+    margin-left: 24%;
     cursor: pointer;
 }
 
 nav i:hover {
-    background-color: #262559;
-    color: #F2F2F2;
-    transition: 0.5s;
-    border-radius: 5px;
+    color: #262559;
 }
 
 nav img {
