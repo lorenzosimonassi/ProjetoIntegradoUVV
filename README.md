@@ -2,7 +2,7 @@
 ## Turma CC1Mb
 ## Grupo: Lorenzo Simonassi / Michel Gonçalves / João Moura
 ## Professores e Matérias
-**Abrantes Araújo Filho**:
+**Abrantes Araujo Silva Filho**:
 
 > Banco de dados
  
