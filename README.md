@@ -1,6 +1,6 @@
 # **PROJETO INTEGRADO UVV**
 ## Turma CC1Mb
-## Grupo: Lorenzo Simonassi / Michel Gonçalves / João Moura
+## Grupo: Lorenzo Simonassi / Michel Gonçalves / João Moura Brasileiro
 ## Professores e Matérias
 **Abrantes Araujo Silva Filho**:
 
